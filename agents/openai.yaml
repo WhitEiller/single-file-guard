@@ -1,0 +1,3 @@
+interface:
+  display_name: "Single File Guard"
+  short_description: "Strict single-file coding mode"
